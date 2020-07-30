@@ -22,5 +22,5 @@ Fun fact: I do love lollipop.
 
 <p align="center">
 
-    <img src="./PinkMarshmallow-AgAD_wIAArrAlQU.gif"/>
+    <img src="https://raw.githubusercontent.com/elahe-dastan/elahe-dastan/master/PinkMarshmallow-AgAD_wIAArrAlQU.gif"/>
 </p>
