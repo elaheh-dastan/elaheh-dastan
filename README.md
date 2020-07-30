@@ -20,4 +20,7 @@ My favorite programming language is [golang](https://golang.org/), I have experi
 there.<br/>
 Fun fact: I do love lollipop.
 
-![](PinkMarshmallow-AgAD_wIAArrAlQU.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/elahe-dastan/elahe-dastan/master/PinkMarshmallow-AgAD_wIAArrAlQU.gif"></img>
+</p>
+
