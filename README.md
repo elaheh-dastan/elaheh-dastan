@@ -3,6 +3,7 @@
 [![](https://img.shields.io/badge/-gmail-lightgray?style=flat-square&logo=gmail)](mailto:elahe.dstn@gmail.com)
 
 [![](https://img.shields.io/badge/-medium-black?style=flat-square&logo=medium)](https://elahe-dstn.medium.com)
+[![](https://img.shields.io/badge/-instagram-pink?style=flat-square&logo=instagram)](https://www.instagram.com/elahe.dstn)
 
 I'm currently studying computer engineering at [Amirkabir University Of Technology](https://aut.ac.ir/) and looking forward to study AI in the future.
 My favorite programming language is [golang](https://golang.org/), I have experience in Java and python3 too.
