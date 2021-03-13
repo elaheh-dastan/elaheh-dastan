@@ -6,7 +6,7 @@
 
 I'm currently studying computer engineering at [Amirkabir University Of Technology](https://aut.ac.ir/) and looking forward to study AI in the future.
 My favorite programming language is [golang](https://golang.org/), I have experience in Java and python3 too.
-I have joined [Snapp](https://snapp.ir/) and work there.
+I have joined [Snapp](https://snapp.ir/) and work there with an amazing team. I believe that open source is holy and the ones who can gain money for their researches or codes but publish them for free are the ones who will go to heaven.
 
 Fun fact: I do love lollipop.
 
