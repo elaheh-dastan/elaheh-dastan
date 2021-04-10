@@ -12,8 +12,6 @@ Fun fact: I do love lollipop.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/elahe-dastan/elahe-dastan/master/PinkMarshmallow-AgAD_wIAArrAlQU.gif"></img>
-</p>
 
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elahe-dastan&show_icons=true&theme=monokai" alt="Elahe Dastan's GitHub stats" />
 </p>
