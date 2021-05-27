@@ -11,9 +11,7 @@ I have joined [Snapp](https://snapp.ir/) and work there with an amazing team. I 
 Fun fact: I do love lollipop.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/elahe-dastan/elahe-dastan/master/PinkMarshmallow-AgAD_wIAArrAlQU.gif"></img>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=elahe-dastan&show_icons=true&theme=monokai" alt="Elahe Dastan's GitHub stats" />
-  
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elahe-dastan&theme=monokai" alt="Elahe Dastan's Github Steak" />
+  <img src="https://raw.githubusercontent.com/elahe-dastan/elahe-dastan/master/PinkMarshmallow-AgAD_wIAArrAlQU.gif" /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=elahe-dastan&show_icons=true&theme=monokai" alt="Elahe Dastan's GitHub stats" /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elahe-dastan&theme=monokai" alt="Elahe Dastan's Github Steak" />
 </p>
