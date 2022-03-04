@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/-instagram-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/elahe.dstn)
 
 I'm currently studying computer engineering at [Amirkabir University Of Technology](https://aut.ac.ir/) and looking forward to study AI in the future.
-My favorite programming language is [golang](https://golang.org/), I have experience in Java and python3 too.
+My favorite programming language is Golang, I have experience in Java and python3 too.
 I joined [Snapp](https://snapp.ir/) backend chapter as a Golang developer at August of 2020. After one year, I changed my chapter and since September of 2021 I've joind map traffic team as an ML engineer. I believe that open source is holy and the ones who can gain money for their researches or codes but publish them for free are the ones who will go to heaven.
 
 Fun fact: I do love lollipop.
