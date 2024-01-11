@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/elahe-dastan/elahe-dastan.pdf?label=Resume&logo=github&style=for-the-badge)](https://github.com/elahe-dastan/elahe-dastan.pdf/releases/latest)
 [![](https://img.shields.io/badge/-gmail-lightgray?style=for-the-badge&logo=gmail)](mailto:elahe.dstn@gmail.com)
 [![](https://img.shields.io/badge/-medium-black?style=for-the-badge&logo=medium)](https://elahe-dstn.medium.com)
 [![](https://img.shields.io/badge/-instagram-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/elahe.dstn)
