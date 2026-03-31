@@ -13,7 +13,7 @@ I believe that open source is holy and the ones who can gain money for their res
 Fun fact: I do love lollipop.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/elahe-dastan/elahe-dastan/master/PinkMarshmallow-AgAD_wIAArrAlQU.gif" /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=elahe-dastan&show_icons=true&theme=monokai" alt="Elahe Dastan's GitHub stats" /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elahe-dastan&theme=monokai" alt="Elahe Dastan's Github Steak" />
+  <img src="https://raw.githubusercontent.com/elaheh-dastan/elaheh-dastan/main/PinkMarshmallow-AgAD_wIAArrAlQU.gif" /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=elaheh-dastan&show_icons=true&theme=monokai" alt="Elaheh Dastan's GitHub stats" /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elaheh-dastan&theme=monokai" alt="Elaheh Dastan's Github Steak" />
 </p>
