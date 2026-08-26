@@ -50,10 +50,10 @@ My research on deep ETA prediction for urban transport was published at
 
 <div align="center">
 
-![Elaheh's GitHub stats](https://github-readme-stats.vercel.app/api?username=elaheh-dastan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elaheh-dastan&layout=compact&theme=tokyonight&hide_border=true)
+![Elaheh's GitHub stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
-![Elaheh's GitHub streak](https://streak-stats.demolab.com?user=elaheh-dastan&theme=tokyonight&hide_border=true)
+![Elaheh's GitHub streak](./profile/streak.svg)
 
 <img src="https://raw.githubusercontent.com/elaheh-dastan/elaheh-dastan/main/PinkMarshmallow-AgAD_wIAArrAlQU.gif" width="260" />
 
