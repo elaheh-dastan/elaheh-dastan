@@ -9,7 +9,7 @@ on:
     - cron: "0 3 * * *" # every day at 03:00 UTC
   push:
     paths:
-      - ".github/workflows/update-readme-cards.yml"
+      - ".github/workflows/update-readme-cards.yml" # also doubles as a manual trigger when you can't reach Actions > Run workflow (e.g. no gh auth): touch this file and push
   workflow_dispatch:
 
 jobs:
