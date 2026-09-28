@@ -14,7 +14,7 @@
 
 I'm a Senior Data Scientist / ML Engineer with 9+ years of experience designing and shipping
 end-to-end machine learning systems — from data pipelines and retrieval models to production
-agentic LLM applications. I hold a B.Sc. in Software Engineering and an M.Sc. in Artificial
+agentic LLM applications. I hold a B.Sc. in Computer Engineering and an M.Sc. in Artificial
 Intelligence from [Amirkabir University of Technology](https://aut.ac.ir/). I'm currently at
 **Caterpillar**, via COMTEK International, building the LLM evaluation framework behind the Cat
 In-Cab Assistant, and before that I built ML systems at **Digikala**, **Snapp!**, **Asan
