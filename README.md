@@ -23,6 +23,8 @@ and agentic LLM pipelines. I co-authored
 [Clustering of Urban Traffic Patterns by K-Means and Dynamic Time Warping](https://arxiv.org/abs/2309.09830),
 an arXiv preprint on clustering urban traffic patterns.
 
+- 📣 **Open to new roles** — Senior ML / AI Engineer, in Barcelona or remote across the EU.
+  Spanish residency, no visa sponsorship required
 - 🔭 Recently building **agentic LLM systems** — RAG, LLM-as-judge evaluation, multi-agent
   pipelines with LangChain/LangGraph and Pydantic AI
 - ⚙️ Comfortable end-to-end: **Python & Go**, PyTorch/TensorFlow, and MLOps tooling like
