@@ -31,6 +31,7 @@ an arXiv preprint on clustering urban traffic patterns.
   Airflow, MLflow, and Kubeflow
 - 📄 Full resume, always up to date: [elaheh-dastan.pdf](https://github.com/elaheh-dastan/elaheh-dastan.pdf/releases/latest)
 - ✍️ I occasionally write on [Medium](https://elahe-dstn.medium.com)
+- ✈️ Away from the keyboard I really love trips and travelling — always planning the next one
 - 🍭 Fun fact: I do love lollipop
 
 ## Tech Stack
