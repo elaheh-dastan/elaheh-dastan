@@ -2,9 +2,10 @@
 
 # Hi, I'm Elaheh 👋
 
-### Senior Data Scientist / ML Engineer
+### Senior Machine Learning Engineer
 
 [![Resume](https://img.shields.io/github/v/release/elaheh-dastan/elaheh-dastan.pdf?label=Resume&logo=github&style=for-the-badge)](https://github.com/elaheh-dastan/elaheh-dastan.pdf/releases/latest)
+[![Website](https://img.shields.io/badge/-Website-1F3A5C?style=for-the-badge&logo=astro&logoColor=white)](https://elaheh-dastan.github.io)
 [![Email](https://img.shields.io/badge/-Email-lightgray?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elahe.dstn@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elaheh-dastan)
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=1BxI0JkAAAAJ)
@@ -12,14 +13,14 @@
 
 </div>
 
-I'm a Senior Data Scientist / ML Engineer with 9+ years of experience designing and shipping
+I'm a Senior Machine Learning Engineer with 9+ years of experience designing and shipping
 end-to-end machine learning systems — from data pipelines and retrieval models to production
 agentic LLM applications. I hold a B.Sc. in Computer Engineering and an M.Sc. in Artificial
 Intelligence from [Amirkabir University of Technology](https://aut.ac.ir/). I'm currently at
 **Caterpillar**, via COMTEK International, building the LLM evaluation framework behind its
 in-cab and in-cloud AI assistants, and before that I built ML systems at **Digikala**, **Snapp!**, **Asan
-Pardakht**, and **Nahal** spanning search & retrieval, ETA prediction, recommendation systems,
-and agentic LLM pipelines. I co-authored
+Pardakht**, **Nahal**, and **Avidnet Technologies** spanning search & retrieval, ETA prediction,
+recommendation systems, and agentic LLM pipelines. I co-authored
 [Clustering of Urban Traffic Patterns by K-Means and Dynamic Time Warping](https://arxiv.org/abs/2309.09830),
 an arXiv preprint on clustering urban traffic patterns.
 
