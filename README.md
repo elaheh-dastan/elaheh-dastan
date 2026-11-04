@@ -2,7 +2,7 @@
 
 # Hi, I'm Elaheh 👋
 
-### Senior Machine Learning Engineer
+### Senior AI / ML Engineer
 
 [![Resume](https://img.shields.io/github/v/release/elaheh-dastan/elaheh-dastan.pdf?label=Resume&logo=github&style=for-the-badge)](https://github.com/elaheh-dastan/elaheh-dastan.pdf/releases/latest)
 [![Website](https://img.shields.io/badge/-Website-1F3A5C?style=for-the-badge&logo=astro&logoColor=white)](https://elaheh-dastan.github.io)
@@ -13,7 +13,7 @@
 
 </div>
 
-I'm a Senior Machine Learning Engineer with 9+ years of experience designing and shipping
+I'm a Senior AI / ML Engineer with 9+ years of experience designing and shipping
 end-to-end machine learning systems — from data pipelines and retrieval models to production
 agentic LLM applications. I hold a B.Sc. in Computer Engineering and an M.Sc. in Artificial
 Intelligence from [Amirkabir University of Technology](https://aut.ac.ir/). I'm currently at
